@@ -168,7 +168,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - [x] ~~[Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)~~
 - [x] ~~[Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)~~ ***"... go public.", "whiteboard, whiteboard, whiteboards..."***
 - [ ] Cracking The Coding Interview Set 1:
-    - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
+    - [x] ~~[Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)~~ ***"Ask tons of questions to really understand the task. Don't make assumptions." "Don't race you code."***
     - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
 - [ ] How to Get a Job at the Big 4:
     - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
