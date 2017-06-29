@@ -14,7 +14,6 @@
 
 ## Table of Contents
 
-- [How to use it](#how-to-use-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
 - [Pick One Language for the Interview](#pick-one-language-for-the-interview)
@@ -126,81 +125,47 @@
 
 ---
 
-## How to use it
-
-Everything below is an outline, and you should tackle the items in order from top to bottom.
-
-I'm using Github's special markdown flavor, including tasks lists to check progress.
-
-**Create a new branch so you can check items like this, just put an x in the brackets: [x]**
-
-
-    Fork a branch and follow the commands below
-
-`git checkout -b progress`
-
-`git remote add jwasham https://github.com/jwasham/coding-interview-university`
-
-`git fetch --all`
-
-    Mark all boxes with X after you completed your changes
-
-`git add . `
-
-`git commit -m "Marked x" `
-
-`git rebase jwasham/master `
-
-`git push --force `
-
-[More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
 ## ~~Don't feel you aren't smart enough~~
 - ~~Successful software engineers are smart, but many have an insecurity that they aren't smart enough.~~
 - ~~[The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)~~
 - ~~[It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)~~
 
 
-## Interview Process & General Interview Prep
+## ~~Interview Process & General Interview Prep~~
 
 - [x] ~~[ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)~~
-- [x] ~~[Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)~~ ***"When you think you’re done, take your code and see if it actually runs. Learn from what didn’t work."***
+- [x] ~~[Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)~~ <span style="background-color:#f3f315; padding:3px;color:#383803;">***"When you think you’re done, take your code and see if it actually runs. Learn from what didn’t work."***</span>
 - [x] ~~[Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)~~
-- [x] ~~[Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)~~ ***"... go public.", "whiteboard, whiteboard, whiteboards..."***
-- [ ] Cracking The Coding Interview Set 1:
-    - [x] ~~[Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)~~ ***"Ask tons of questions to really understand the task. Don't make assumptions." "Don't race you code."***
-    - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
-- [ ] How to Get a Job at the Big 4:
-    - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+- [x] ~~[Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)~~ <span style="background-color:#f3f315; padding:3px;color:#383803;">***"... go public.", "whiteboard, whiteboard, whiteboards..."***</span>
+- [x] ~~Cracking The Coding Interview Set 1:~~
+    - [x] ~~[Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)~~ <span style="background-color:#f3f315; padding:3px;color:#383803;">***"Ask tons of questions to really understand the task. Don't make assumptions." "Don't race you code."***</span>
+    - [x] ~~[Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)~~
+- [x] ~~How to Get a Job at the Big 4:~~
+    - [x] ~~[How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)~~ <span style="background-color:#f3f315; padding:3px;color:#383803;">***"Quantify your experience." "Referrals. If he asks you to do it any other way, that the way to do it."***</span>
 
-- [ ] Prep Course:
-    - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
-        - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
-    - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/): 
-        - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more. 
+## ~~Pick One Language for the Interview~~
 
-## Pick One Language for the Interview
+~~You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:~~
 
-You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
+- ~~C++~~
+- ~~Java~~
+- ~~Python~~
 
-- C++
-- Java
-- Python
+~~You could also use these, but read around first. There may be caveats:~~
 
-You could also use these, but read around first. There may be caveats:
+- ~~JavaScript~~
+- ~~Ruby~~
 
-- JavaScript
-- Ruby
+~~You need to be very comfortable in the language and be knowledgeable.~~
 
-You need to be very comfortable in the language and be knowledgeable.
+~~Read more about choices:~~
 
-Read more about choices:
-- http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- http://blog.codingforinterviews.com/best-programming-language-jobs/
+- ~~http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/~~ ***""***
+- ~~http://blog.codingforinterviews.com/best-programming-language-jobs/~~
 
 [See language resources here](programming-language-resources.md)
 
-You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
+~~You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.~~
 
 ## Book List
 
@@ -329,82 +294,80 @@ OR:
 
 ## Before you Get Started
 
-This list grew over many months, and yes, it kind of got out of hand.
+~~This list grew over many months, and yes, it kind of got out of hand.~~
 
-Here are some mistakes I made so you'll have a better experience.
+~~Here are some mistakes I made so you'll have a better experience.~~
 
-### 1. You Won't Remember it All
+### ~~1. You Won't Remember it All~~
 
-I watched hours of videos and took copious notes, and months later there was much I didn't remember. I spent 3 days going
-through my notes and making flashcards so I could review.
+~~I watched hours of videos and took copious notes, and months later there was much I didn't remember. I spent 3 days going through my notes and making flashcards so I could review.~~
 
-Read please so you won't make my mistakes:
+~~Read please so you won't make my mistakes:~~
 
-[Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/)
+~~[Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/)~~ <span style="background-color:#f3f315; padding:3px;color:#383803;">**"review a topic over several time intervals" don't drill one topic." "gather all these algorithms and data structures, and printed them out"**</span>
 
-### 2. Use Flashcards
+### 2. ~~Use Flashcards~~
 
-To solve the problem, I made a little flashcards site where I could add flashcards of 2 types: general and code.
-Each card has different formatting.
+~~To solve the problem, I made a little flashcards site where I could add flashcards of 2 types: general and code.Each card has different formatting.~~
 
-I made a mobile-first website so I could review on my phone and tablet, wherever I am.
+~~I made a mobile-first website so I could review on my phone and tablet, wherever I am.~~
 
-Make your own for free:
+~~Make your own for free:~~
 
-- [Flashcards site repo](https://github.com/jwasham/computer-science-flash-cards)
-- [My flash cards database (old - 1200 cards)](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham.db):
-- [My flash cards database (new - 1800 cards)](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham-extreme.db):
+- <span style="background-color:#f3f315; padding:3px;color:#383803;">**[Flashcards site repo](https://github.com/jwasham/computer-science-flash-cards)**<span>
+- <span style="background-color:#f3f315; padding:3px;color:#383803;">[My flash cards database (old - 1200 cards)](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham.db):</span>
+- <span style="background-color:#f3f315; padding:3px;color:#383803;">[My flash cards database (new - 1800 cards)](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham-extreme.db):</span>
 
-Keep in mind I went overboard and have cards covering everything from assembly language and Python trivia to machine learning and statistics. It's way too much for what's required.
+~~Keep in mind I went overboard and have cards covering everything from assembly language and Python trivia to machine learning and statistics. It's way too much for what's required.~~
 
-**Note on flashcards:** The first time you recognize you know the answer, don't mark it as known. You have to see the
-same card and answer it several times correctly before you really know it. Repetition will put that knowledge deeper in
-your brain.
+~~**Note on flashcards:** The first time you recognize you know the answer, don't mark it as known. You have to see the same card and answer it several times correctly before you really know it. Repetition will put that knowledge deeper in
+your brain.~~
 
-An alternative to using my flashcard site is [Anki](http://ankisrs.net/), which has been recommended to me numerous times. It uses a repetition system to help you remember.
-It's user-friendly, available on all platforms and has a cloud sync system. It costs $25 on iOS but is free on other platforms.
+~~An alternative to using my flashcard site is [Anki](http://ankisrs.net/), which has been recommended to me numerous times. It uses a repetition system to help you remember. It's user-friendly, available on all platforms and has a cloud sync system. It costs 25 on iOS but is free on other platforms.~~
 
-My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (thanks [@xiewenya](https://github.com/xiewenya))
+~~My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (thanks [@xiewenya](https://github.com/xiewenya))~~
 
-### 3. Review, review, review
+### ~~3. Review, review, review~~
 
-I keep a set of cheat sheets on ASCII, OSI stack, Big-O notations, and more. I study them when I have some spare time.
+~~I keep a set of cheat sheets on ASCII, OSI stack, Big-O notations, and more. I study them when I have some spare time.~~
 
-Take a break from programming problems for a half hour and go through your flashcards.
+~~Take a break from programming problems for a half hour and go through your flashcards.~~
 
-### 4. Focus
+### ~~4. Focus~~
 
-There are a lot of distractions that can take up valuable time. Focus and concentration are hard.
+~~There are a lot of distractions that can take up valuable time. Focus and concentration are hard.~~
 
-## The Daily Plan
+## ~~The Daily Plan~~
 
-Some subjects take one day, and some will take multiple days. Some are just learning with nothing to implement.
+~~Some subjects take one day, and some will take multiple days. Some are just learning with nothing to implement.~~
 
-Each day I take one subject from the list below, watch videos about that subject, and write an implementation in:
-- C - using structs and functions that take a struct * and something else as args.
-- C++ - without using built-in types
-- C++ - using built-in types, like STL's std::list for a linked list
-- Python - using built-in types (to keep practicing Python)
-- and write tests to ensure I'm doing it right, sometimes just using simple assert() statements
-- You may do Java or something else, this is just my thing.
+~~Each day I take one subject from the list below, watch videos about that subject, and write an implementation in:~~
 
-You don't need all these. You need only [one language for the interview](#pick-one-language-for-the-interview).
+- ~~C - using structs and functions that take a struct * and something else as args.~~
+- ~~C++ - without using built-in types~~
+- ~~C++ - using built-in types, like STL's std::list for a linked list~~
+- ~~Python - using built-in types (to keep practicing Python)~~
+- ~~and write tests to ensure I'm doing it right, sometimes just using simple assert() statements~~
+- ~~You may do Java or something else, this is just my thing.~~
 
-Why code in all of these?
-- Practice, practice, practice, until I'm sick of it, and can do it with no problem (some have many edge cases and bookkeeping details to remember)
-- Work within the raw constraints (allocating/freeing memory without help of garbage collection (except Python))
-- Make use of built-in types so I have experience using the built-in tools for real-world use (not going to write my own linked list implementation in production)
+~~You don't need all these. You need only [one language for the interview](#pick-one-language-for-the-interview).~~
 
-I may not have time to do all of these for every subject, but I'll try.
+~~Why code in all of these?~~
 
-You can see my code here:
- - [C](https://github.com/jwasham/practice-c)
- - [C++](https://github.com/jwasham/practice-cpp)
- - [Python](https://github.com/jwasham/practice-python)
+- ~~Practice, practice, practice, until I'm sick of it, and can do it with no problem (some have many edge cases and bookkeeping details to remember)~~
+- ~~Work within the raw constraints (allocating/freeing memory without help of garbage collection (except Python))~~
+- ~~Make use of built-in types so I have experience using the built-in tools for real-world use (not going to write my own linked list implementation in production)~~
 
-You don't need to memorize the guts of every algorithm.
+~~I may not have time to do all of these for every subject, but I'll try.~~
 
-Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then test it out on a computer.
+~~You can see my code here:~~
+ - ~~[C](https://github.com/jwasham/practice-c)~~
+ - ~~[C++](https://github.com/jwasham/practice-cpp)~~
+ - ~~[Python](https://github.com/jwasham/practice-python)~~
+
+~~You don't need to memorize the guts of every algorithm.~~
+
+~~Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then test it out on a computer.~~
 
 ## Prerequisite Knowledge
 
@@ -420,9 +383,12 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
-- nothing to implement
-- [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-- [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
+- ~~nothing to implement~~
+- [x] ~~[Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=)~~ 
+	- **<span style="background-color:#f3f315; padding:3px;color:#383803;">Ω(n) - Best case complexity notation</span>**
+	- **<span style="background-color:#f3f315; padding:3px;color:#383803;">O(n) - [Order of n] Worst case complexity (Big O)</span>**
+	- **<span style="background-color:#f3f315; padding:3px;color:#383803;">θ(n) - when Ω(n) = O(n)</span>**
+- [x] ~~[Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)~~
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena:
     - [video](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
