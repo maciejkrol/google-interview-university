@@ -543,7 +543,7 @@ f(n) <= C*g(n) for n > n0
 - ### Binary search
     - [x] ~~[Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)~~
     - [x] ~~[Binary Search (video)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)~~
-    - [ ] [detail](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/)
+    - [x] ~~[detail](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/)~~
     - [ ] Implement:
         - binary search (on sorted array of integers)
         - binary search using recursion
@@ -551,7 +551,7 @@ f(n) <= C*g(n) for n > n0
 - ### Bitwise operations
     - [x] ~~[Bits cheat sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-cheet.pdf) - you should know many of the powers of 2 from (2^1 to 2^16 and 2^32)~~
     - [ ] Get a really good understanding of manipulating bits with: &, |, ^, ~, >>, <<
-        - [ ] [words](https://en.wikipedia.org/wiki/Word_(computer_architecture))
+        - [x] ~~[words](https://en.wikipedia.org/wiki/Word_(computer_architecture))~~
         - [ ] Good intro:
             [Bit Manipulation (video)](https://www.youtube.com/watch?v=7jkIUgLC29I)
         - [ ] [C Programming Tutorial 2-10: Bitwise Operators (video)](https://www.youtube.com/watch?v=d0AwjSpNXR0)
@@ -578,10 +578,10 @@ f(n) <= C*g(n) for n > n0
 ## Trees
 
 - ### Trees - Notes & Background
-    - [ ] [Series: Core Trees (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees)
+    - [x] ~~[Series: Core Trees (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees)~~
     - [ ] [Series: Trees (video)](https://www.coursera.org/learn/data-structures/lecture/95qda/trees)
-    - basic tree construction
-    - traversal
+    - ~~basic tree construction~~
+    - ~~traversal~~
     - manipulation algorithms
     - BFS (breadth-first search)
         - [MIT (video)](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
@@ -630,9 +630,9 @@ f(n) <= C*g(n) for n > n0
         - [ ] get_successor // returns next-highest value in tree after given value, -1 if none
 
 - ### Heap / Priority Queue / Binary Heap
-    - visualized as a tree, but is usually linear in storage (array, linked list)
-    - [ ] [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
-    - [ ] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/2OpTs/introduction)
+    - ~~visualized as a tree, but is usually linear in storage (array, linked list)~~
+    - [x] ~~[Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))~~
+    - [x] ~~[Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/2OpTs/introduction)~~
     - [ ] [Naive Implementations (video)](https://www.coursera.org/learn/data-structures/lecture/z3l9N/naive-implementations)
     - [ ] [Binary Trees (video)](https://www.coursera.org/learn/data-structures/lecture/GRV2q/binary-trees)
     - [ ] [Tree Height Remark (video)](https://www.coursera.org/learn/data-structures/supplement/S5xxz/tree-height-remark)
